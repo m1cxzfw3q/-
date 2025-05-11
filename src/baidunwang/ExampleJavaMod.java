@@ -1,4 +1,4 @@
-package example;
+package baidunwang;
 
 import arc.math.geom.Rect;
 import mindustry.gen.*;
