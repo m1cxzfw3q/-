@@ -21,3 +21,7 @@ minGameVersion: 146
 
 #this is a java mod
 java: true
+
+hidden: false;
+hideInBrowser: false;
+repo: "m1cxzfw3q/-"
